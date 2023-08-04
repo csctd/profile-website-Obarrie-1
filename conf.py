@@ -1,7 +1,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Profile '
-copyright = '2022, Osman'
+copyright = '2022, Osman Barrie'
 author = 'Osman Barrie'
 
 
